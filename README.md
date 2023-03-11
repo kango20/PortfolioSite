@@ -6,6 +6,8 @@ c. kango@chapman.edu
 d. CPSC 458
 e. Project 2: Portfolio Site
 
+### LINK TO PORTFOLIO SITE
+* https://capable-pony-63b511.netlify.app/ 
 
 ### A description of any known compile or runtime errors, code limitations, or deviations from the assignment specification (if applicable)
 
